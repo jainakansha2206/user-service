@@ -11,4 +11,7 @@ public class AppConstants implements Serializable {
     public static final String USER_TABLE="users";
     public static final String PHOENIX_SCHEMA="phoenix";
     public static final String SYSTEM="SYSTEM";
+
+    // HR contacts
+    public static final String HR_CONTACTS_SAVE_ENDPOINT="/api/v1/hr-contacts";
 }
